@@ -1,0 +1,13 @@
+[2012,8,26,0,0]  #time
+[/net/nwebserver/drifter/drift_udel_2012_1.dat]  #filename
+[128380741]  #drift number
+[12,50,8] #the num of picture,   Time interval,step size
+[5]  #choose one url to get codar
+1,http://tashtego.marine.rutgers.edu:8080/thredds/dodsC/cool/codar/totals/macoora6km_fmrc/Macoora_6km_Totals_(FMRC)_best.ncd" 
+2,http://tashtego.marine.rutgers.edu:8080/thredds/dodsC/cool/codar/totals/sw06" 
+3,http://tashtego.marine.rutgers.edu:8080/thredds/dodsC/cool/codar/totals/macoora6km"          
+4,http://tashtego.marine.rutgers.edu:8080/thredds/dodsC/cool/codar/totals/macoora8km"   
+5,http://tashtego.marine.rutgers.edu:8080/thredds/dodsC/cool/codar/totals/macoora6km_clone"
+
+
+#This ctl file work with get_drifter,getsst_codar_drifter,gettrack_codar
